@@ -1,0 +1,17 @@
+CampaignID,CampaignName,StartDate,EndDate,Channel,Category,InStoreSignage,MembersTargeted,ResponseRatePct,CampaignCost,CompassCashBonusIssued,IncrementalSales
+CR-01,Spring Tire Swap Double Cash,2025-04-01,2025-04-30,Email + App,Tires,Yes,410000,14.8,27900,34100,185000
+CR-02,Back-to-Camp Bonus Weekend,2025-06-20,2025-06-22,App only,Outdoor Equipment,Yes,175000,11.2,9900,12100,64000
+CR-03,Summit Members Early Access,2025-07-10,2025-07-16,Email,Seasonal,No,48000,21.5,4050,4950,22000
+CR-04,Fall Home Refresh 3x Cash,2025-09-12,2025-09-21,Email + Flyer,Home Goods,Yes,520000,7.9,44100,53900,240000
+CR-05,Winter Tire Ready,2025-10-15,2025-11-15,Email + App,Tires,Yes,620000,16.4,31950,39050,260000
+CR-06,Holiday Mega Bonus 10x,2025-11-28,2025-12-01,All channels,Seasonal,Yes,1250000,9.6,274500,335500,690000
+CR-07,New Year Tool Event,2026-01-09,2026-01-18,Email,Tools,Yes,300000,8.8,23400,28600,120000
+CR-08,App Download Welcome Offer,2026-02-01,2026-03-31,App only,All,Yes,92000,6.5,9450,11550,58000
+CR-09,Win-Back: Inactive 12+ Months,2026-03-05,2026-03-31,Email + SMS,All,No,230000,4.1,18900,23100,30000
+CR-10,Spring Tire Swap Double Cash,2026-04-01,2026-04-30,Email + App,Tires,Yes,420000,15.1,26100,31900,190000
+CR-11,Garden & Patio Kickoff,2026-05-01,2026-05-10,Email + Flyer,Outdoor Equipment,Yes,380000,9.8,29700,36300,150000
+CR-12,Sports Gear Summer Boost,2026-06-05,2026-06-14,App only,Sports Gear,Yes,160000,8.4,8100,9900,52000
+CR-13,Partner Fuel Bonus,2026-07-01,2026-07-31,Partner + App,Fuel partner,No,510000,5.2,39600,48400,95000
+CR-14,Back-to-School Auto Check,2026-08-15,2026-08-31,Email,Automotive Parts,Yes,240000,7.4,15750,19250,88000
+CR-15,Summit Members Early Access,2026-09-08,2026-09-14,Email,Seasonal,No,52000,23.0,4950,6050,25000
+CR-16,Winter Tire Ready,2026-10-15,2026-11-15,Email + App,Tires,Yes,600000,17.2,32850,40150,255000

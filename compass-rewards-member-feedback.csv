@@ -1,0 +1,61 @@
+FeedbackID,Date,Region,Tier,Channel,LikelihoodToRecommend_0to10,Theme,Comment
+FB-001,2026-03-01,East,Summit,In-store kiosk,5,Earn rate change,The email about the changes was long and confusing. What actually changed?
+FB-002,2026-03-02,Central,Summit,Email survey,2,Expiry confusion,I was told points never expire when I signed up years ago.
+FB-003,2026-03-05,North,Explorer,In-store kiosk,3,Redemption friction,I have $140 in Compass Cash up north and nothing worth spending it on at my small store.
+FB-004,2026-03-05,North,Summit,Email survey,3,Earn rate change,I used to get way more Compass Cash on fuel. The February change felt like a downgrade nobody explained.
+FB-005,2026-03-05,Central,Explorer,App survey,5,App experience,Can't see my transaction history older than 6 months.
+FB-006,2026-03-17,North,Explorer,Email survey,4,Expiry confusion,When does my Compass Cash expire? The website and app say different things.
+FB-007,2026-03-19,Central,Trailblazer,Contact centre,8,Missing points,Missing points were added within 48 hours after I submitted the receipt in the app.
+FB-008,2026-03-21,West,Summit,Contact centre,8,Earn rate change,Earn is lower but the Summit perks make up for it for me.
+FB-009,2026-03-22,North,Explorer,In-store kiosk,8,Earn rate change,Honestly I barely noticed the change. Still collecting on everything I buy.
+FB-010,2026-03-25,East,Trailblazer,App survey,4,Partner offers,Too many partner emails. I unsubscribed.
+FB-011,2026-04-03,Central,Explorer,In-store kiosk,7,Earn rate change,"Change was fine, but announce it earlier next time."
+FB-012,2026-04-05,West,Summit,App survey,10,Staff helpfulness,Store manager fixed a missing points issue on the spot. Great experience.
+FB-013,2026-04-06,North,Trailblazer,Email survey,5,Tier benefits,Trailblazer perks aren't very different from the base level.
+FB-014,2026-04-09,Central,Explorer,Email survey,5,Tier benefits,I spend a lot but I'm still Explorer. What does it take to move up?
+FB-015,2026-04-10,North,Explorer,Contact centre,10,Redemption friction,"Redeemed for winter tires, saved a bundle. Love it."
+FB-016,2026-04-12,West,Trailblazer,Contact centre,9,Staff helpfulness,The team at my store always reminds me about bonus events.
+FB-017,2026-04-14,North,Summit,In-store kiosk,5,Expiry confusion,My partner and I share a household account and we can't tell whose activity counts.
+FB-018,2026-04-16,West,Explorer,In-store kiosk,7,Staff helpfulness,Cashiers are friendly but seem rushed during the holidays.
+FB-019,2026-04-20,Central,Explorer,App survey,9,App experience,The app shows my balance instantly. Big improvement from last year.
+FB-020,2026-04-22,West,Explorer,App survey,5,Redemption friction,Couldn't redeem on a gift card for my son. Wish that was allowed.
+FB-021,2026-04-23,East,Explorer,Email survey,9,Tier benefits,Tier progress bar in the app keeps me motivated.
+FB-022,2026-04-24,West,Summit,App survey,9,App experience,"Clean, simple app. My dad even figured it out."
+FB-023,2026-04-27,West,Summit,App survey,3,Staff helpfulness,Nobody at the service desk could answer my question about tiers.
+FB-024,2026-05-02,Central,Summit,App survey,6,Expiry confusion,18 months inactivity rule is fine but tell people clearly.
+FB-025,2026-05-21,East,Summit,In-store kiosk,4,Earn rate change,"Found out about the new partner earn rate from a cashier, not from you. Please tell members first."
+FB-026,2026-05-23,Central,Explorer,In-store kiosk,2,Missing points,My online order didn't earn any Compass Cash. Took two calls to fix.
+FB-027,2026-06-02,North,Trailblazer,Contact centre,5,Earn rate change,Not happy about the earn change. Still shop here because the store is close.
+FB-028,2026-06-02,East,Explorer,Email survey,9,Partner offers,The sporting goods partner bonus weekend was fantastic.
+FB-029,2026-06-05,Central,Explorer,App survey,10,App experience,Booking my tire swap and earning cash in the same app is great.
+FB-030,2026-06-07,West,Explorer,App survey,8,Expiry confusion,Got a warning email before expiry which saved my balance. Thank you!
+FB-031,2026-06-15,West,Explorer,App survey,4,App experience,The app keeps logging me out. Fix the sign-in please.
+FB-032,2026-06-24,East,Summit,App survey,3,Missing points,Points from my tire installation never showed up.
+FB-033,2026-07-03,West,Summit,Email survey,10,Tier benefits,Hitting Summit tier felt great — the early access sale is my favourite perk.
+FB-034,2026-07-08,East,Explorer,App survey,9,Partner offers,I joined only because of the apparel partner discount. Worth it.
+FB-035,2026-07-12,West,Explorer,Email survey,3,Redemption friction,Cashier didn't know how to split payment between Compass Cash and my card.
+FB-036,2026-07-16,North,Trailblazer,Email survey,2,Tier benefits,I dropped from Trailblazer to Explorer with no warning.
+FB-037,2026-07-25,North,Explorer,In-store kiosk,7,Partner offers,Would love a partner for home services like furnace cleaning.
+FB-038,2026-08-03,North,Explorer,App survey,9,App experience,The app is my favourite way to check deals before I head to the store.
+FB-039,2026-08-04,West,Summit,Contact centre,4,Redemption friction,I wanted to use $8 of Compass Cash and was told the minimum is $10. Annoying.
+FB-040,2026-08-23,North,Trailblazer,App survey,6,App experience,Offers expire before I see them. Push notifications would help.
+FB-041,2026-08-27,East,Summit,App survey,2,Earn rate change,I feel like the program got worse this year and the app didn't explain why.
+FB-042,2026-09-01,East,Summit,App survey,9,App experience,Love the digital receipts. No more paper.
+FB-043,2026-09-02,West,Explorer,Email survey,4,Redemption friction,Took 3 tries to get the app barcode to scan.
+FB-044,2026-09-07,East,Explorer,App survey,5,Partner offers,Partner offers are mostly for things I don't buy.
+FB-045,2026-09-07,West,Explorer,Email survey,2,Redemption friction,Tried to redeem at the till and the associate said the system was down. Third time this year.
+FB-046,2026-09-09,North,Explorer,In-store kiosk,4,Staff helpfulness,Was told to call the contact centre for a simple balance question.
+FB-047,2026-09-16,East,Explorer,Email survey,1,Expiry confusion,Lost $35 of Compass Cash because my account was 'inactive'. I didn't know it expired.
+FB-048,2026-09-18,West,Explorer,App survey,10,App experience,Personalized offers in the app are actually relevant now — got a deal on a tent I wanted.
+FB-049,2026-09-23,East,Summit,Email survey,10,Staff helpfulness,The associate in Automotive explained exactly how to use my Compass Cash on tires. Excellent service.
+FB-050,2026-09-28,East,Summit,Contact centre,4,Earn rate change,I read the FAQ twice and still don't know if the change applies to the credit card.
+FB-051,2026-10-02,West,Summit,App survey,5,Redemption friction,Please let me redeem at the partner fuel stations like I can earn there.
+FB-052,2026-10-07,North,Trailblazer,Email survey,3,Missing points,Scanned my card but the receipt shows no member number.
+FB-053,2026-10-10,West,Trailblazer,In-store kiosk,4,Missing points,Bonus cash from the holiday event took 6 weeks to appear.
+FB-054,2026-10-10,East,Explorer,App survey,9,Staff helpfulness,Staff asked if I was a member and signed me up in 30 seconds. Easy.
+FB-055,2026-10-14,North,Summit,Contact centre,10,Tier benefits,Free tire storage for Summit members is a huge perk.
+FB-056,2026-10-19,West,Trailblazer,In-store kiosk,5,Redemption friction,Redeeming online is easy but in store it always takes forever.
+FB-057,2026-10-20,East,Summit,In-store kiosk,9,Redemption friction,Redemption worked perfectly at self-checkout. Very smooth.
+FB-058,2026-10-26,East,Summit,Contact centre,8,Partner offers,Fuel partner bonus month was great while it lasted.
+FB-059,2026-10-27,East,Explorer,Email survey,1,Earn rate change,Why did my fuel earn drop? I switched to another station program after that.
+FB-060,2026-10-27,West,Explorer,App survey,3,App experience,App crashes when I try to add my card to my phone wallet.
